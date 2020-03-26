@@ -1,3 +1,3 @@
-# making a custom todo list in Rails
+# A custom to-do list in Rails
 
 
