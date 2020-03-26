@@ -1,3 +1,3 @@
-# First Rails app ever.
+# making a custom todo list in Rails
 
 
